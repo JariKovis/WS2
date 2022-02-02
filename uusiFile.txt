@@ -1,0 +1,3 @@
+The easiest way to write to files in Node.js 
+is to use the fs.writeFile() API.
+Alternatively, you can use the synchronous version fs.writeFileSync():
